@@ -4,7 +4,7 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: [process.env.OWNER_NUMBER || '947XXXXXXXX'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerNumber: [process.env.OWNER_NUMBER || '94764369880'], // Add your number without + or spaces (e.g., 919876543210)
     ownerName: ['SHANUKA UMANGA'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
@@ -48,7 +48,7 @@ module.exports = {
           antibadword: false, // Block bad words in group
           antibadwordAction: 'delete', // 'delete', 'kick', 'warn'
           welcome: false,
-          welcomeMessage: '╭╼━≪•𝙽𝙴𝚆 𝙼𝙴𝙼𝙱𝙴𝚁•≫━╾╮\n┃𝚆𝙴𝙻𝙲𝙾𝙼𝙴: @user 👋\n┃Member count: #memberCount\n┃𝚃𝙸𝙼𝙴: time⏰\n╰━━━━━━━━━━━━━━━╯\n\n*@user* Welcome to *@group*! 🎉\n*Group 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽*\ngroupDesc\n\n> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ botName*',
+          welcomeMessage: '╭╼━≪•𝙽𝙴𝚆 𝙼𝙴𝙼𝙱𝙴𝚁•≫━╾╮\n┃𝚆𝙴𝙻𝙲𝙾𝙼𝙴: @user 👋\n┃Member count: #memberCount\n┃𝚃𝙸𝙼𝙴: time⏰\n╰━━━━━━━━━━━━━━━╯\n\n*@user* Welcome to *@group*! 🎉\n*Group 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽*\ngroupDesc\n\n> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ SHANEX GOLDEN *',
           goodbye: false,
           goodbyeMessage: 'Goodbye @user 👋 We will never miss you!',
           antiSpam: false,
@@ -100,9 +100,9 @@ module.exports = {
     
     // Social Links (optional)
     social: {
-      github: 'https://github.com/mruniquehacker',
-      instagram: 'https://instagram.com/kngightbotmd',
-      youtube: 'http://youtube.com/@mr_unique_hacker'
+      github: 'https://github.com/shanex',
+      //instagram: 'https://instagram.com/kngightbotmd',
+      //youtube: 'http://youtube.com/@'
     }
 };
   
