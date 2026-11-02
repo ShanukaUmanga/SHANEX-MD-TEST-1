@@ -434,7 +434,6 @@ async function startBot() {
       dashboardState.credsRegistered = true;
       dashboardState.qr = null;
       dashboardState.pairCode = null;
-      console.log('\n✅ Bot connected successfully!');
       
       // ============================================
       // SHANEX GOLDEN MD - CONNECTION SUCCESS MESSAGE
